@@ -9,7 +9,7 @@ This is a matlab implementation of our paper to appear at IEEE transactions on I
 
 
 If you use our code, please cite our with the following bibtex code :
-
+--
     @ARTICLE{8712567, 
 author={Z. {Yang} and Q. {Xu} and W. {Zhang} and X. {Cao} and Q. {Huang}}, 
 journal={IEEE Transactions on Image Processing}, 
